@@ -1,0 +1,113 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+pip-wheel-metadata/
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+migrations/*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_replay
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rbuildignore
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+_minted-*/
+latexmkrc
+build/
+out/
+
+# Data / outputs (often large — adjust if you want to keep them in repo)
+data/
+datasets/
+raw_data/
+processed_data/
+artifacts/
+results/
+bert-da-swda/
+output/
+*.csv.gz
+*.h5
+*.npz
+
+# Binary files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.mp4
+*.mov
+*.zip
+*.tar
+*.gz
+
+# Logs and temporary
+*.log
+*.tmp
+tmp/
+*.bak
+*.swp
+*.swo
+
+# Credentials and secrets
+*.key
+*.pem
+*.crt
+credentials/
+secrets/
+
+# Misc
+.Dockerfile.swp
+.env.local
+.env.*.local
+
+# large files
+
+*studychat_supervised_da*

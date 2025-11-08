@@ -1,0 +1,6 @@
+- Ver com prompt zero shot LLM
+- Identificar outras formas de label 
+- Experimentar tagear com contexto da resposta anterior do llm 
+- Experimentar tagear a resposta do llm
+- Processing mining para explicar os clusters
+- Plotar evolução do aluno entre clusters ao longo do curso 
