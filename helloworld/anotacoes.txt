@@ -4,3 +4,10 @@
 - Experimentar tagear a resposta do llm
 - Processing mining para explicar os clusters
 - Plotar evolução do aluno entre clusters ao longo do curso 
+
+
+
+### 
+
+
+Cluster map 
